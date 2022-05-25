@@ -1,5 +1,5 @@
 # Appointments
-Assignment in course Java for Python programmers
+Assignment in the course Java for Python programmers
 
 Problem description:
 
