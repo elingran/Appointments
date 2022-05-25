@@ -13,7 +13,7 @@ month day time description
 
 For example
 
-May 23 13:00 Lunch with the boss
+maj 23 13:00 Lunch with the boss
 
 The months indicate with the first three letters of the month's Swedish name. The time is always specified in the format hh:mm. You can assume that all months, days and times are correct (so this does not need to be checked). Furthermore, you can assume that the descriptions do not contain any Swedish characters (åäöÅÄÖ). NOTE! There can be any number of spaces between month and day, between day and time, and between time and description.
 
